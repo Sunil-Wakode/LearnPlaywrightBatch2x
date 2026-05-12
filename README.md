@@ -453,10 +453,23 @@ LearnPlaywright2X/
 │   ├── 01_Basic_First Code.js
 │   └── 02_HotCode.js
 ├── Chapter_02_JavaScipt_Concepts/
-│   ├── 05_JS_Basics
-│   └── 06_identifier_Rules.js
+│   └── 05_JS_Basics
 ├── Chapter_03_Identifiers_Literals/
-│   └── 07_VS_Code_Keybaord_Shortcuts_windows
+│   ├── 06_Identifier_Rules.js
+│   ├── 07_Identifier_Part2.js
+│   ├── 08_Comments.js
+│   ├── js_identifier_rules.js
+│   └── VS_Code_Keybaord_Shortcuts_windows.md
+├── Chapter_04_JavaScript_Concepts/
+│   ├── 09_var_let_const.js
+│   ├── 10_functions.js
+│   ├── 11_var_explained.js
+│   ├── 12_let_people_love.js
+│   ├── 13_const_explained.js
+│   ├── 14_var_functionscope.js
+│   ├── 15_let_scope.js
+│   ├── 16_Hoisting.js
+│   └── 17_hoisting_fn.js
 └── README.md
 ```
 
@@ -472,6 +485,9 @@ Deep dive into JavaScript fundamentals including:
 
 ### Chapter 03: Identifiers & Literals
 Exploration of identifiers, literal values, and developer tools including VS Code keyboard shortcuts.
+
+### Chapter 04: Advanced JavaScript Concepts
+Covers `var`, `let`, and `const`, function behavior, scope, hoisting, and best practices for modern JavaScript.
 
 ## Getting Started
 
@@ -492,7 +508,14 @@ Each chapter contains example files that can be executed independently:
 
 ```bash
 node Chapter_01_Basics/01_Basic_First\ Code.js
-node Chapter_02_JavaScipt_Concepts/06_identifier_Rules.js
+node Chapter_01_Basics/02_HotCode.js
+node Chapter_03_Identifiers_Literals/06_Identifier_Rules.js
+node Chapter_03_Identifiers_Literals/07_Identifier_Part2.js
+node Chapter_03_Identifiers_Literals/08_Comments.js
+node Chapter_04_JavaScript_Concepts/09_var_let_const.js
+node Chapter_04_JavaScript_Concepts/10_functions.js
+node Chapter_04_JavaScript_Concepts/16_Hoisting.js
+node Chapter_04_JavaScript_Concepts/17_hoisting_fn.js
 ```
 
 ## License
