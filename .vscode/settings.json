@@ -1,0 +1,14 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "workbench.colorTheme": "Light Modern",
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.formatOnType": true,
+    "telemetry.editStats.showDecorations": true,
+    "telemetry.editStats.showStatusBar": false,
+    "github.copilot.chat.agent.autoFix": true
+}
